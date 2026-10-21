@@ -1,0 +1,6 @@
+{
+  "name": "VideoStudio",
+  "description": "Professional video and audio studio editor. Adjust video volume, mix background music tracks, and extract pristine audio directly on device.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">VideoStudio</string>
+    <string name="title_editor">Video Editor</string>
+    <string name="title_projects">Studio Projects</string>
+    <string name="title_audio_studio">Audio Studio</string>
+    <string name="title_extracted_audio">Extracted Audio</string>
+    <string name="title_music_library">BGM Library</string>
+    <string name="action_import_video">Import Video</string>
+    <string name="action_add_bgm">Add BGM</string>
+    <string name="action_extract_audio">Extract Audio</string>
+    <string name="action_export">Export Project</string>
+    <string name="action_play">Play</string>
+    <string name="action_pause">Pause</string>
+    <string name="video_volume_label">Video Audio Volume</string>
+    <string name="bgm_volume_label">Music Track Volume</string>
+    <string name="audio_ducking_label">Auto Audio Ducking</string>
+    <string name="mute_video_audio">Mute Original Audio</string>
+</resources>
